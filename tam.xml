@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+    <channels_info> <!-- this is optional -->
+      <title>Sankiliyan Tamil TV</title> <!-- if channels_info_ a title is required, other elements are optional -->
+      <genre>TV</genre>
+      <description>Tamil TV</description>
+      <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
+      <fanart>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</fanart>
+      <date>2013</date>
+      <credits>Admin</credits>
+    </channels_info>
+
+<channel>
+   <name>Sankiliyan Tamil TV</name>
+<info>Tamil Live TV Streaming</info>
+    <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
+<fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
+</item>
+
+<item>
+  <title>Announcement(s): TV channels updated with new channels 01/04/14</title>
+<link>https://dl.dropboxusercontent.com/s/6aaiptcetaivpnv/sankiliyan.mp4?dl=1&token_hash=AAGSAOaR5MthDHC555Y5sWgYXu5QowJZVout6xGKBeG46w</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/infoi.jpg</thumbnail>
+</items>
+
+<item>
+<title>Deepam TV</title>
+<link>rtmp://qcloudmedia.com/live/ukdeepam</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYn_gUpv3N5w4x2PpJ407mdwi1OWKj2zinPpjM7do1DzYKO_IyGg</thumbnail>
+</item>
+
+<item>
+<title>Athavan TV EU</title>
+<link>rtmp://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp swfUrl=http://jwplayer.5centscdn.com/jw/player.swf pageUrl=http://athavantv.com/</link>
+<thumbnail>http://2.bp.blogspot.com/-tC61LQUg3Jo/U1_0g4UvlXI/AAAAAAAAALo/iapXaZnOk4Q/s1600/AthavanTV.png</thumbnail>
+</item>
+
+<item>
+<title>Lankasri TV</title>
+<link>rtmp://livestream.5centscdn.com/lankasritest/c4283d4ad045eea5fcd4cf555bdabd2e.sdp swfUrl=http://jwplayer.5centscdn.com/jw/player.swf pageUrl=http://www.lankasri.com/</link>
+<thumbnail>http://www.lankasri.com/assets/logos/lankasri_m_white.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dan Tamil Oli</title>
+<link>http://iphone-streaming.ustream.tv/uhls/8774680/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dan_yaarl_oli.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>EETV Canada</title>
+<link>rtmp://37.59.17.222:1935/live_ca/eettv</link>
+<thumbnail>http://www.eettv.com/images/title.png</thumbnail>
+</item>
+
+<item>
+<title>Vimbam TV</title>
+<link>rtmp://91.219.43.148:1935/vimbamtv/vimbamtv</link>
+<thumbnail>https://yt3.ggpht.com/-EJeIgp-eEGs/AAAAAAAAAAI/AAAAAAAAAAA/Y4ohnyE2ZJA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thanthi TV</title>
+<link>http://d30zz3d0a9ty3e.cloudfront.net/httporg/thanthi_450/playlist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-nnny5YV5254/AAAAAAAAAAI/AAAAAAAAAAA/J5RDt9zRnuo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NETHRA & EYE</title>
+<link>http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8</link>
+<thumbnail>http://scorpiodesigns.fr/tv-logo/nethra.jpg</thumbnail>
+</item>
+
+<item>
+<title>News 7</title>
+<link>http://edge.purplestream.com/live/ns7/amlst:news7/playlist.m3u8</link>
+<thumbnail>http://tamilgoose.com/wp-content/uploads/2014/10/News7Tamil-Live-300x98.jpg</thumbnail>
+</item>
+
+<item>
+<title>SEPL TV</title>
+<link>http://46.249.213.93/iPhone/broadcast/seplmoviesindia-tablet.3gp/seplmoviesindia-tablet.3gp-mr497k.m3u8?trackingid=5161900000&os=desktop</link>
+<thumbnail>https://lh5.googleusercontent.com/--rgvtH9bwAg/AAAAAAAAAAI/AAAAAAAAAGs/iRd53O4CoCc/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dheeran TV</title>
+<link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dheeran_tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>DD Podigai</title>
+<link>rtmp://50.7.175.252:1940/base2 playpath=dd10.stream swfUrl=http://turbotv.in/player1.swf pageUrl=http://tamiltv.tv token=Vu4KaBzaxa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_podhigai.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ambaal TV</title>
+<link>rtmp://app2dial.com:1935/ambaal/ambaal.stream</link>
+<thumbnail>http://www.ambaal.org/tabs/Ambaal%20TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Peppers TV</title>
+<link>http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8</link>
+<thumbnail>http://pepperstv.com/support/images/nwlogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kalaignar Isai Aruvi</title>
+<link>rtmp://mayatv.in:1935/IsaiAruvi/_definst_/livestream3</link>
+<thumbnail>http://www.indiandth.in/wiki/sundirect/isai_aruvi.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARRA TV</title>
+<link>rtmp://flash6.chennaistream.net/130515/_definst_/livestream</link>
+<thumbnail>http://2.bp.blogspot.com/-L8r5FrVQ5sg/Urpd1Mh8OHI/AAAAAAAACVE/vF-EmXPc7lk/s1600/arra+tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sri Sankara TV</title>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil27.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sri-sankara-tv/ token=Vu4KaBzaxa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sri_sankara.jpg</thumbnail>
+</item>
+
+<item>
+<title>Imayam TV</title>
+<link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf pageUrl=http://www.iwaystream.com/remote2/robinson/ live=1</link>
+<thumbnail>http://www.imayamtv.com/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Channel UFX</title>
+<link>http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_ufx.png</thumbnail>
+</item>
+
+<item>
+<title>FA TV</title>
+<link>rtmp://109.228.13.240:1935/live playpath=myStream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf live=true pageUrl=http://www.firstaudio.net/beta/live/fatv.html</link>
+<thumbnail>http://3.bp.blogspot.com/-ifyhPDe06Q8/UurMuGQihLI/AAAAAAAAABA/2_vwiOMZSzE/s1600/FATV.png</thumbnail>
+</item>
+
+<item>
+<title>Vasantham TV</title>
+<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=true pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vasantham_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tamillan TV<title>
+<link>rtmp://38.96.175.192:1943/live/tamilantelevision1</link>
+<thumbnail>http://www.idubba.com/img/channel/Tamilan-TV/Tamilan-TV.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sathiyam TV</title>
+<link>rtmp://50.7.175.252:1940/base2 playpath=asia12.stream swfUrl=http://turbotv.in/player1.swf pageUrl=http://turbotv.in token=Vu4KaBzaxa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sathiyam_tv.jpg</thumbnail>
+</item>
+
+
+<channel>
+    <name>Tamil Live Radio</name>
+<info>Tamil Live Radio</info>
+    <thumbnail>http://tamiltv.webs.com/screenshot000%20-%20Copy%20%2810%29.png</thumbnail>
+<fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
+	
+<subchannel>
+<name>Tamil Radio</name>
+ <thumbnail>http://tamiltv.webs.com/screenshot000%20-%20Copy%20%2810%29.png</thumbnail>
+</subitems>
+
+</subitem>
+<subitem>
+<title>IBC Tamil</title>
+<link>http://streambharathi.ibctamil.fm:6176/;stream.nsv
+
+</link>
+<thumbnail>http://a3.mzstatic.com/us/r1000/065/Purple/89/06/23/mzl.gctdmpzw.175x175-75.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>Pulikalin Kural</title>
+<link>http://174.36.206.197:8090/</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/freebox-vot-logo.jpg</thumbnail>
+<subitem>
+
+<subitem>
+<title>Vanakkam FM</title>
+<link>http://s2.viastreaming.net:6150/;stream.nsv
+
+
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s162374q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Tamil Radio (Phoenix, AZ)</title>
+<link>http://85.17.139.168:8002/;stream.nsv
+</link>
+<thumbnail>http://img.scoop.it/He3iEjRk4c8LE4MYs0h1xDl72eJkfbmt4t8yenImKBVaiQDB_Rd1H6kmuBWtceBJ</thumbnail>
+</subitem>
+<subitem>
+<title>TamilMelIsai - Tamil Melisai</title>
+<link>http://uk4-vn.mixstream.net:8092/;stream.nsv
+
+</link>
+<thumbnail>http://www.tamilmelisai.com/images/newlogo.png</thumbnail>
+</subitem>
+<subitem>
+<title>TAMIL DSP</title>
+<link>http://s6.voscast.com:8140/;stream.nsv
+
+
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s164978q.png</thumbnail>
+</subitem>
+<subitem>
+<title>ITR Tamil</title>
+<link>http://s8.pop-stream.de:8570/;stream.nsv
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s123298q.png</thumbnail>
+</subitem>
+<subitem>
+<title>DJSiran Tamil FM</title>
+<link>http://listen.radionomy.com/djsiran-tamil-fm</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s127516q.png</thumbnail>
+</subitem>
+<subitem>
+<title>European Tamil Radio</title>
+<link>http://199.16.186.36:8646/stream</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s96888q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Geetham Tamil Radio - Non Stop Old Song (Tunein)</title>
+<link>http://geethamradio.com:8020/old_hifi.mp3</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s113467q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Geetham Tamil Radio - Non Stop 80's (Tunein)</title>
+<link>http://geethamradio.com:8020/80s_lofi.mp3</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s113467q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Tamil Star Radio</title>
+<link>http://68.169.46.27:8008/;stream.nsv
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s101745q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Tamil Aruvi Radio</title>
+<link>http://66.90.103.189:8852/;stream.nsv
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s106735q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Radio Manna Tamil</title>
+<link>http://108.59.254.123:7084/;stream.nsv
+
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s162060q.png</thumbnail>
+</subitem>
+<subitem>
+<title>NJ Tamil Radio</title>
+<link>http://radio.njtamil.com:8004/;stream.nsv
+
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s82985q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Tamil Sri FM</title>
+<link>http://50.7.245.130:8237/;stream.nsv
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s0q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Air Tamil Radio</title>
+<link>http://s1.voscast.com:8044/;stream.nsv
+
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s111227q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Jey Online Tamil Radio</title>
+<link>none1</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s141019q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Iniya Tamil Radio</title>
+<link>none2</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s126279q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Canadian Tamil Radio</title>
+<link>none3</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s7415q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Lankasri FM</title>
+<link>http://media5.lankasri.fm:8000/;stream.nsv
+</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s123492q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Hello FM - 89.5 FM</title>
+<link>none2012</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s139739q.png</thumbnail>
+</subitem>
+<subitem>
+<title>A.R.Rahman Radio</title>
+<link>http://streaming206.radionomy.com/ARRahman-Radio?group=0&countrycode=DK</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s107085q.png</thumbnail>
+</subitem>
+<subitem>
+<title>Ilayaraja Radio</title>
+<link>http://streaming204.radionomy.com/Ilayaraja-radio?group=0&countrycode=DK</link>
+<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s166196q.png</thumbnail>
+</subitem>
+
+<channel>
+    <name>Tamil Eelam</name>
+<info>Tamil Eelam</info>
+    <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Emblem_of_Tamil_Eelam.svg/600px-Emblem_of_Tamil_Eelam.svg.png</thumbnail>
+<fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
+	
+<subchannel>
+<name>Tamil Eelam</name>
+ <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Emblem_of_Tamil_Eelam.svg/600px-Emblem_of_Tamil_Eelam.svg.png</thumbnail>
+</subitems>
+
+<item>
+<title>History of Tamils</title>
+<link>https://dl.dropboxusercontent.com/s/9ughnv497b3o03x/History%20of%20Tamils%20%28Tamileelam%29.wmv?dl=1&token_hash=AAHomRYgeCWeqZXaRkpjrpN-W9f44Hn-ebGMw6q8hRY73w</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/Historytamils.jpg</thumbnail>
+</items>
+
+<item>
+<title>History of LTTE and Prabhakaran</title>
+<link>https://dl.dropboxusercontent.com/s/xni6wjw9qm9byr8/History%20of%20LTTE%20and%20Prabhakaran%20%283%29.wmv?dl=1&token_hash=AAFGmNrBJCbM9Do-fJHTKScDlk-Zk4ogUFVeSgjl1ixUow</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/ltlead.jpg</thumbnail>
+</items>
+
+<item>
+<title>History of Anton Balasingham</title>
+<link>https://dl.dropboxusercontent.com/s/gm3bra11sl3zctv/History%20of%20Anton%20Balasingam%20-%20voice%20of%20the%20tamilnation%20-.wmv?dl=1&token_hash=AAFaMziabrSycNGWiHguySqJRTSGyUyTUwlBxZpq_bkMnA</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/antonb.jpg</thumbnail>
+</items>
+
+<item>
+<title>History of Col. Kiddu</title>
+<link>https://dl.dropboxusercontent.com/s/478bid1io8vah96/LTTE%20Senior%20Commander%20Colonel%20Kiddu%20History%20Collection.wmv?dl=1&token_hash=AAE9aoZyrjLPHl8GHJUrssV7M-fHcO3Juo0xFowT8z2S3g</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/ckittu1.jpg</thumbnail>
+</items>
+
+<item>
+<title>History of Brigadier Balraj</title>
+<link>https://dl.dropboxusercontent.com/s/verolh1nxdla6xk/Brigadier%20Balraj%20Reserved%20hero%20of%20LTTE%20Full%20documentry.mp4?dl=1&token_hash=AAH9SPmq5ZfiRWZGj9Fgsu-hVHBcXVBBwje6ZV98u1KdTw</link>
+<thumbnail>http://atvtam.googlecode.com/svn/trunk/balraj.jpg</thumbnail>
+</items>
