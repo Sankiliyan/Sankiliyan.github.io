@@ -105,33 +105,15 @@
 </item>
 
 <item>
-<title>Peppers TV</title>
-<link>http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8</link>
-<thumbnail>http://pepperstv.com/support/images/nwlogo.jpg</thumbnail>
+<title>Engada TV</title>
+<link>rtpm://livestream.5centscdn.com/engadatv/0943f8da9e4ed54570ffa034947dc53a.sdp/playlist.m3u8</link>
+<thumbnail>http://www.tamilan24.com/tv/files/engadatv.jpg</thumbnail>
 </item>
 
 <item>
-<title>Kalaignar Isai Aruvi</title>
-<link>rtmp://mayatv.in:1935/IsaiAruvi/_definst_/livestream3</link>
-<thumbnail>http://www.indiandth.in/wiki/sundirect/isai_aruvi.jpg</thumbnail>
-</item>
-
-<item>
-<title>ARRA TV</title>
-<link>rtmp://flash6.chennaistream.net/130515/_definst_/livestream</link>
-<thumbnail>http://2.bp.blogspot.com/-L8r5FrVQ5sg/Urpd1Mh8OHI/AAAAAAAACVE/vF-EmXPc7lk/s1600/arra+tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sri Sankara TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil27.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sri-sankara-tv/ token=Vu4KaBzaxa</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sri_sankara.jpg</thumbnail>
-</item>
-
-<item>
-<title>Imayam TV</title>
-<link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf pageUrl=http://www.iwaystream.com/remote2/robinson/ live=1</link>
-<thumbnail>http://www.imayamtv.com/images/logo.png</thumbnail>
+<title>Puthuyugam</title>
+<link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
+<thumbnail>http://scorpiodesigns.fr/tv-logo/pthuyugam.jpg</thumbnail>
 </item>
 
 <item>
@@ -155,16 +137,8 @@
 <item>
 <title>Tamillan TV<title>
 <link>rtmp://38.96.175.192:1943/live/tamilantelevision1</link>
-<thumbnail>http://www.idubba.com/img/channel/Tamilan-TV/Tamilan-TV.png</thumbnail>
+<thumbnail>http://tv123online.com/wp-content/uploads/2013/12/tamilantvlogo.png</thumbnail>
 </item>
-
-
-<item>
-<title>Sathiyam TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=asia12.stream swfUrl=http://turbotv.in/player1.swf pageUrl=http://turbotv.in token=Vu4KaBzaxa</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sathiyam_tv.jpg</thumbnail>
-</item>
-
 
 <channel>
     <name>Tamil Live Radio</name>
