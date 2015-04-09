@@ -395,11 +395,11 @@
 		<thumbnail>https://lh4.googleusercontent.com/--CXXWTiqn6M/VLn0AdU9ErI/AAAAAAAAAw8/9H_9yM8hQIA/s250/eelamfm.png</thumbnail>
 	</item>
 
-    <item>
-		<title>IBC Tamil</title>
-		<link>http://streambharathi.ibctamil.fm:6176/;stream.nsv</link>
-		<thumbnail>https://lh6.googleusercontent.com/-v5cK2nWCheM/VLn0A-EBT3I/AAAAAAAAAug/VdsLdXYlLTs/s250/ibctamil.png</thumbnail>
-	</item>
+<title>IBC Tamil</title>
+<link>http://streambharathi.ibctamil.fm:6176/;stream.nsv
+</link>
+<thumbnail>https://lh6.googleusercontent.com/-v5cK2nWCheM/VLn0A-EBT3I/AAAAAAAAAug/VdsLdXYlLTs/s250/ibctamil.png</thumbnail>
+</subitem>
 
     <item>
 		<title>TRT Tamil Olli</title>
