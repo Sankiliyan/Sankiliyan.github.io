@@ -68,15 +68,33 @@
 </item>
 
 <item>
-<title>NETHRA-EYE</title>
-<link>http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8</link>
-<thumbnail>http://scorpiodesigns.fr/tv-logo/nethra.jpg</thumbnail>
+<title>Puthiya Thalaimurai</title>
+<link>http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-y1GBAHwel9Q/US4z68HduOI/AAAAAAAABqQ/6DVr8ij8lsw/s1600/puthiyathalai.jpg</thumbnail>
 </item>
 
 <item>
 <title>Puthuyugam</title>
 <link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
 <thumbnail>http://scorpiodesigns.fr/tv-logo/pthuyugam.jpg</thumbnail>
+</item>
+
+<item>
+<title>News7</title>
+<link>http://edge.purplestream.com/live/ns7/amlst:news7/playlist.m3u8</link>
+<thumbnail>http://news7.co.in/wp-content/uploads/news7-tamil-channel-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Raagam TV</title>
+<link>rtmp://70.38.1.234:1935/liveooty/livestream.flv</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU5yFxisitdTLxh4DP6KoSRc9hjweka2cjagEQeYqDkFpx00Xb8g</thumbnail>
+</item>
+
+<item>
+<title>NETHRA-EYE</title>
+<link>http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8</link>
+<thumbnail>http://scorpiodesigns.fr/tv-logo/nethra.jpg</thumbnail>
 </item>
 
 <item>
@@ -89,13 +107,6 @@
 <title>Dheeran TV</title>
 <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dheeran_tv.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Puthiya Thalaimurai</title>
-<link>http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/playlist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-y1GBAHwel9Q/US4z68HduOI/AAAAAAAABqQ/6DVr8ij8lsw/s1600/puthiyathalai.jpg</thumbnail>
 </item>
 
 <item>
