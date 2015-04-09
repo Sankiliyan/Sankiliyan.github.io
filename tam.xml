@@ -74,9 +74,9 @@
 </item>
 
 <item>
-<title>News 7</title>
-<link>http://edge.purplestream.com/live/ns7/amlst:news7/playlist.m3u8</link>
-<thumbnail>http://tamilgoose.com/wp-content/uploads/2014/10/News7Tamil-Live-300x98.jpg</thumbnail>
+<title>Puthuyugam</title>
+<link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
+<thumbnail>http://scorpiodesigns.fr/tv-logo/pthuyugam.jpg</thumbnail>
 </item>
 
 <item>
@@ -93,27 +93,9 @@
 
 
 <item>
-<title>DD Podigai</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=dd10.stream swfUrl=http://turbotv.in/player1.swf pageUrl=http://tamiltv.tv token=Vu4KaBzaxa</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_podhigai.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ambaal TV</title>
-<link>rtmp://app2dial.com:1935/ambaal/ambaal.stream</link>
-<thumbnail>http://www.ambaal.org/tabs/Ambaal%20TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Engada TV</title>
-<link>rtpm://livestream.5centscdn.com/engadatv/0943f8da9e4ed54570ffa034947dc53a.sdp/playlist.m3u8</link>
-<thumbnail>http://www.tamilan24.com/tv/files/engadatv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Puthuyugam</title>
-<link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
-<thumbnail>http://scorpiodesigns.fr/tv-logo/pthuyugam.jpg</thumbnail>
+<title>Puthiya Thalaimurai</title>
+<link>http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-y1GBAHwel9Q/US4z68HduOI/AAAAAAAABqQ/6DVr8ij8lsw/s1600/puthiyathalai.jpg</thumbnail>
 </item>
 
 <item>
