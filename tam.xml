@@ -387,148 +387,199 @@
 
 </subitem>
 <subitem>
-<title>IBC Tamil</title>
-<link>http://streambharathi.ibctamil.fm:6176/;stream.nsv
+<items>
+    <item>
+        <title>Pulikalin Kural</title>
+        <link>http://174.36.206.197:8090/;stream.mp3</link>
+        <thumbnail>https://lh4.googleusercontent.com/-9AM_y8oytsQ/VLn0BZHhP2I/AAAAAAAAAwo/9ktClCSD48s/s250/pulikalinkural.png</thumbnail>
+    </item>
 
-</link>
-<thumbnail>http://a3.mzstatic.com/us/r1000/065/Purple/89/06/23/mzl.gctdmpzw.175x175-75.jpg</thumbnail>
-</subitem>
+    <item>
+		<title>Eelam FM</title>
+		<link>http://stereo.wavestreamer.com:2176/Live/;stream.mp3</link>
+		<thumbnail>https://lh4.googleusercontent.com/--CXXWTiqn6M/VLn0AdU9ErI/AAAAAAAAAw8/9H_9yM8hQIA/s250/eelamfm.png</thumbnail>
+	</item>
 
-<subitem>
-<title>Pulikalin Kural</title>
-<link>http://174.36.206.197:8090/</link>
-<thumbnail>http://atvtam.googlecode.com/svn/trunk/freebox-vot-logo.jpg</thumbnail>
-<subitem>
+    <item>
+		<title>IBC Tamil</title>
+		<link>http://streambharathi.ibctamil.fm:6176</link>
+		<thumbnail>https://lh6.googleusercontent.com/-v5cK2nWCheM/VLn0A-EBT3I/AAAAAAAAAug/VdsLdXYlLTs/s250/ibctamil.png</thumbnail>
+	</item>
 
-<subitem>
-<title>Vanakkam FM</title>
-<link>http://s2.viastreaming.net:6150/;stream.nsv
+    <item>
+		<title>TRT Tamil Olli</title>
+		<link>http://94.23.36.180:5006/;</link>
+		<thumbnail>https://lh4.googleusercontent.com/-_mAQFzYY62s/VLn0CxNjmSI/AAAAAAAAAwc/l9wzxxIgMTs/s250/thamiloli.png</thumbnail>
+	</item>
 
+    <item>
+		<title>Sooriyan FM [SL]</title>
+		<link>http://188.138.75.83:8050/;stream.mp3</link>
+		<thumbnail>https://lh6.googleusercontent.com/-_-NIWBkCiJU/VLn0CnPa0aI/AAAAAAAAAwg/28lBYHJ3duc/s250/sooriyan.png</thumbnail>
+	</item>
 
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s162374q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Tamil Radio (Phoenix, AZ)</title>
-<link>http://85.17.139.168:8002/;stream.nsv
-</link>
-<thumbnail>http://img.scoop.it/He3iEjRk4c8LE4MYs0h1xDl72eJkfbmt4t8yenImKBVaiQDB_Rd1H6kmuBWtceBJ</thumbnail>
-</subitem>
-<subitem>
-<title>TamilMelIsai - Tamil Melisai</title>
-<link>http://uk4-vn.mixstream.net:8092/;stream.nsv
+    <item>
+		<title>Shakthi FM</title>
+		<link>http://76.164.217.100:7012/;</link>
+		<thumbnail>https://lh3.googleusercontent.com/-jiJgR7hSC3Y/VLn6OH-xNBI/AAAAAAAAAyA/KREKFdgJiuA/s250/shakthi.png</thumbnail>
+	</item>
 
-</link>
-<thumbnail>http://www.tamilmelisai.com/images/newlogo.png</thumbnail>
-</subitem>
-<subitem>
-<title>TAMIL DSP</title>
-<link>http://s6.voscast.com:8140/;stream.nsv
+    <item>
+		<title>Varnam FM</title>
+		<link>http://s3.voscast.com:8402/;</link>
+		<thumbnail>https://lh3.googleusercontent.com/-zi4b2J2kq98/VLn0Eck8hQI/AAAAAAAAAwM/mN3PUJiHE1o/s250/varnam.png</thumbnail>
+	</item>
 
+    <item>
+		<title>Vasantham FM</title>
+		<link>http://76.164.217.100:7489/;</link>
+		<thumbnail>https://lh4.googleusercontent.com/-1Cz5qauNexI/VLn0EV2lfyI/AAAAAAAAAwA/ZYX9gNU2uiI/s250/vasantham.png</thumbnail>
+	</item>
 
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s164978q.png</thumbnail>
-</subitem>
-<subitem>
-<title>ITR Tamil</title>
-<link>http://s8.pop-stream.de:8570/;stream.nsv
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s123298q.png</thumbnail>
-</subitem>
-<subitem>
-<title>DJSiran Tamil FM</title>
-<link>http://listen.radionomy.com/djsiran-tamil-fm</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s127516q.png</thumbnail>
-</subitem>
-<subitem>
-<title>European Tamil Radio</title>
-<link>http://199.16.186.36:8646/stream</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s96888q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Geetham Tamil Radio - Non Stop Old Song (Tunein)</title>
-<link>http://geethamradio.com:8020/old_hifi.mp3</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s113467q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Geetham Tamil Radio - Non Stop 80's (Tunein)</title>
-<link>http://geethamradio.com:8020/80s_lofi.mp3</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s113467q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Tamil Star Radio</title>
-<link>http://68.169.46.27:8008/;stream.nsv
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s101745q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Tamil Aruvi Radio</title>
-<link>http://66.90.103.189:8852/;stream.nsv
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s106735q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Radio Manna Tamil</title>
-<link>http://108.59.254.123:7084/;stream.nsv
+    <item>
+		<title>Vetri Vaanoli [UK]</title>
+		<link>http://83.170.104.71:4060/Live</link>
+		<thumbnail>https://lh4.googleusercontent.com/-6KCs9aFQjN4/VLn0E4dLzLI/AAAAAAAAAwI/00SLtvXDtyY/s250/vetri_uk.png</thumbnail>
+	</item>
 
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s162060q.png</thumbnail>
-</subitem>
-<subitem>
-<title>NJ Tamil Radio</title>
-<link>http://radio.njtamil.com:8004/;stream.nsv
+    <item>
+		<title>Lankasri FM</title>
+		<link>http://media2.lankasri.fm/;</link>
+		<thumbnail>https://lh6.googleusercontent.com/-DuNXSpgcOK8/VLn0BfvbfoI/AAAAAAAAAws/vczyCmv0IK4/s250/lankasri.png</thumbnail>
+	</item>
 
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s82985q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Tamil Sri FM</title>
-<link>http://50.7.245.130:8237/;stream.nsv
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s0q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Air Tamil Radio</title>
-<link>http://s1.voscast.com:8044/;stream.nsv
+    <item>
+		<title>Shaivam FM</title>
+		<link>http://50.22.212.203:8007/;</link>
+		<thumbnail>https://lh3.googleusercontent.com/-eGI88O6Ymuc/VLn0CDQlOQI/AAAAAAAAAvE/vQkUxyZb2R8/s250/shaivam.png</thumbnail>
+	</item>
 
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s111227q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Jey Online Tamil Radio</title>
-<link>none1</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s141019q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Iniya Tamil Radio</title>
-<link>none2</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s126279q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Canadian Tamil Radio</title>
-<link>none3</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s7415q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Lankasri FM</title>
-<link>http://media5.lankasri.fm:8000/;stream.nsv
-</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s123492q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Hello FM - 89.5 FM</title>
-<link>none2012</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s139739q.png</thumbnail>
-</subitem>
-<subitem>
-<title>A.R.Rahman Radio</title>
-<link>http://streaming206.radionomy.com/ARRahman-Radio?group=0&countrycode=DK</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s107085q.png</thumbnail>
-</subitem>
-<subitem>
-<title>Ilayaraja Radio</title>
-<link>http://streaming204.radionomy.com/Ilayaraja-radio?group=0&countrycode=DK</link>
-<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s166196q.png</thumbnail>
+    <item>
+		<title>Thamizhamutham Radio</title>
+		<link>http://s6.voscast.com:7188</link>
+		<thumbnail>https://lh5.googleusercontent.com/-6h9BdKhBclU/VLn0DZLihDI/AAAAAAAAAvo/zFugQFYODh8/s250/thamizhamutham.png</thumbnail>
+	</item>
+
+    <item>
+        <title>Vannam FM</title>
+        <link>http://media.vannamfm.com:8777/;stream1426430391878/1</link>
+        <thumbnail>https://lh4.googleusercontent.com/-PRq6PvsI6Mg/VQWdQ1mfFqI/AAAAAAAAB3k/1itGyITkTxk/s300/vannam.png</thumbnail>
+    </item>
+
+    <item>
+		<title>CMR Tamil HD</title>
+		<link>http://174.132.123.42/CMRHD2</link>
+		<thumbnail>https://lh5.googleusercontent.com/--WlZ9TdAD1I/VLnz_TzCzwI/AAAAAAAAAxI/KLGDrgNZQ2Y/s250/cmr.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Vanakkam FM Canada</title>
+		<link>http://s2.yesstreaming.net:7016/;</link>
+		<thumbnail>https://lh5.googleusercontent.com/-7DagWnVW7DA/VLn0EBs3dtI/AAAAAAAAAwQ/ZDXgZy-ReEk/s250/vanakkam.png</thumbnail>
+	</item>
+
+    <item>
+		<title>ILC Tamil Radio</title>
+		<link>http://s6.voscast.com:8484/</link>
+		<thumbnail>https://lh5.googleusercontent.com/-Ehq66VDmh_c/VLn0AxuM73I/AAAAAAAAAww/GpIYAhV4dGs/s250/ilc.png</thumbnail>
+	</item>
+
+    <item>
+		<title>European Tamil Radio</title>
+		<link>http://cast2.serverhostingcenter.com:8646/stream</link>
+		<thumbnail>https://lh6.googleusercontent.com/-HllYIrbv-TU/VLn0Ae6PBAI/AAAAAAAAAw4/NXYOZzRzf-g/s250/etr.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Canadian Tamil Radio</title>
+		<link>http://live.ctr247.com:9000/ctrlive</link>
+		<thumbnail>https://lh4.googleusercontent.com/-L3NjPy2fRUA/VLnz_cQdLRI/AAAAAAAAAxU/gSaqqW1bWPQ/s250/ctr.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Tamil Aruvi Radio</title>
+		<link>http://66.90.103.189:8852/</link>
+		<thumbnail>https://lh5.googleusercontent.com/-vCo4lQcrgYI/VLn0DcBK0HI/AAAAAAAAAwY/inI_gMCBF48/s250/thamizharuvi.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Geetham Tamil Radio</title>
+		<link>http://www.geethamradio.com:8020/hifi.mp3</link>
+		<thumbnail>https://lh5.googleusercontent.com/-QnuwApLOqPA/VLn0AneJntI/AAAAAAAAAw0/VXyXN_cqVRA/s250/geethamradio.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Geetham Tamil Radio - Non Stop Old Song</title>
+		<link>http://www.geethamradio.com:8020/old_hifi.mp3</link>
+		<thumbnail>https://lh5.googleusercontent.com/-QnuwApLOqPA/VLn0AneJntI/AAAAAAAAAw0/VXyXN_cqVRA/s250/geethamradio.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Geetham Tamil Radio - Non Stop 80s</title>
+		<link>http://www.geethamradio.com:8020/80s_lofi.mp3</link>
+		<thumbnail>https://lh5.googleusercontent.com/-QnuwApLOqPA/VLn0AneJntI/AAAAAAAAAw0/VXyXN_cqVRA/s250/geethamradio.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Puradsi FM</title>
+		<link>http://puradsifm.net:9994/</link>
+		<thumbnail>https://lh4.googleusercontent.com/-aXcgJzzcC7Y/VLn0B6y_ndI/AAAAAAAAAu8/kD1GCMCaYiM/s250/puradsi.png</thumbnail>
+	</item>
+
+    <item>
+		<title>EBC Tamil</title>
+		<link>http://78.129.196.73:80</link>
+		<thumbnail>https://lh3.googleusercontent.com/-XfMq6gFAcWI/VLnz_2IqBOI/AAAAAAAAAxE/_AQIdBUnTag/s250/ebc.png</thumbnail>
+	</item>
+
+    <item>
+		<title>ATBC - Australia Tamil Radio</title>
+		<link>http://s7.viastreaming.net:7920/</link>
+		<thumbnail>https://lh4.googleusercontent.com/-fmx9yFV3y7A/VLn0G73jg1I/AAAAAAAAAxM/FYrwF-yxqfY/s250/atbc.png</thumbnail>
+	</item>
+
+    <item>
+		<title>International Tamil Radio</title>
+		<link>http://server.tamil.fm:8000/live</link>
+		<thumbnail>https://lh4.googleusercontent.com/-rGiMeoSDzy4/VLn0BG6ulHI/AAAAAAAAAus/sNoiJHYP3pE/s250/itr.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Vegam Tamil Radio</title>
+		<link>http://live.vegam.info:8020/live</link>
+		<thumbnail>https://lh6.googleusercontent.com/-ZNGMkzqLfq4/VLn0EvYy9DI/AAAAAAAAAwE/Dk0t4KaY-Mw/s250/vegam.png</thumbnail>
+	</item>
+
+    <item>
+		<title>SLBC Tamil National Service 101.3</title>
+		<link>http://220.247.227.4/live</link>
+		<thumbnail>https://lh3.googleusercontent.com/-VW33PTNi-Qo/VLn0Cjzrr8I/AAAAAAAAAvY/hjqX86TvYR0/s250/slbc.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Thendral FM [SL]</title>
+		<link>http://220.247.227.3/live</link>
+		<thumbnail>https://lh6.googleusercontent.com/-0jhNOPuJnag/VLn0D6ER9cI/AAAAAAAAAwU/jqI3EWf93-c/s250/thendral.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Chennai FM Rainbow</title>
+		<link>http://192.99.46.219:8000/</link>
+		<thumbnail>https://lh3.googleusercontent.com/-3gylNqnMHqM/VLn0B4RWtvI/AAAAAAAAAwk/-CkU8tL2DDA/s250/rainbow.png</thumbnail>
+	</item>
+
+    <item>
+		<title>A9 RADIO</title>
+		<link>http://195.154.217.103:8175/</link>
+		<thumbnail>https://lh5.googleusercontent.com/-7RVHzqRMpHM/VLn6OdFWhmI/AAAAAAAAAx8/yfx765SfTMw/s250/a9radio.png</thumbnail>
+	</item>
+
+    <item>
+		<title>Radiospathy</title>
+		<link>http://82.145.43.92:8378/stream</link>
+		<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s151626q.png</thumbnail>
+	</item>
+
 </subitem>
 
 <channel>
