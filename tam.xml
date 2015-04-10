@@ -130,12 +130,6 @@
 	</item>
 
     <item>
-        <title>MKTV</title>
-        <link>http://live.wmncdn.net/mktv123/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-_GVItXBIFLg/VPYaU_XKD_I/AAAAAAAABmk/rOE4x-kylSE/s300/mktv.png</thumbnail>
-	</item>
-
-    <item>
         <title>Super TV</title>
         <link>http://edge.purplestream.com/live/SuperTV/amlst:supertv/playlist.m3u8</link>
         <thumbnail>https://lh6.googleusercontent.com/-0LIRMhzsDM4/VPYaY_PcUHI/AAAAAAAABmk/BXQmCGABvd8/s300/supertv.png</thumbnail>
@@ -171,19 +165,7 @@
         <thumbnail>https://lh3.googleusercontent.com/-uA6Y-bST2iU/VNfKqzfgTsI/AAAAAAAABJ8/B0LgaozyFpE/s300/jayam.png</thumbnail>
     </item>
 
-    <item>
-        <title>Polimer TV [IN]</title>
-        <link>http://polimertv3.livewebcast.in/polimertv/polimertv.stream/playlist.m3u8</link>
-		<thumbnail>https://lh3.googleusercontent.com/-r7fDrR7fLHI/VKcBUUXyWiI/AAAAAAAAAmE/qbecmK9mKOk/s300/300x300_polimer.png</thumbnail>
-    </item>
-
-    <item>
-		<title>Imayam TV [IN]</title>
-		<link>http://38.96.148.172:1935/live/robinson/playlist.m3u8</link>
-		<thumbnail>https://lh3.googleusercontent.com/-Pze5WLacwyE/VKcBPFtjmyI/AAAAAAAAAkE/zKAemYTpN4o/s300/300x300_imayam.png</thumbnail>
-	</item>
-
-    <item>
+b    <item>
         <title>Dheeran TV [IN]</title>
         <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
         <thumbnail>https://lh3.googleusercontent.com/-xWgsrpH9qIA/VKcBOXqyDZI/AAAAAAAAAkA/_LtgZQGo1QQ/s300/300x300_dheeran.png</thumbnail>
@@ -213,13 +195,7 @@
         <thumbnail>https://lh5.googleusercontent.com/-7SUA9CXktCE/VKb_YZ9B3CI/AAAAAAAAAaY/VzTn6KvDX4g/s300/300x300_0004_sivantv.png</thumbnail>
     </item>
 
-	<item>
-		<title>Ambaal TV[UK]</title>
-		<link>rtmp://app2dial.com:1935/ambaal playpath=ambaal.stream swfUrl=http://cloudmediaworld.co.uk/player/player.swf pageUrl=http://cloudmediaworld.co.uk/ambaal.php</link>
-		<thumbnail>https://lh3.googleusercontent.com/-CldBMhZYrvA/VKb_ZMGITrI/AAAAAAAAAak/0-TRvK5NsFc/s300/300x300_uk_ambaal.png</thumbnail>
-	</item>
-
-	<item>
+        <item>
 		<title>Ohm TV [UK]</title>
 		<link>http://livestream.5centscdn.com/ohmtvvxtv/bfb40efd0d961d175d0f38097fb6072f.sdp/playlist.m3u8</link>
 		<thumbnail>https://lh5.googleusercontent.com/-Xkbyd2Bjvf0/VKcBT3LC8tI/AAAAAAAAAmA/6sKD0uGvh30/s300/300x300_ohm.png</thumbnail>
@@ -277,12 +253,6 @@
         <title>Captain News</title>
         <link>http://edge.purplestream.com/live/captain/amlst:captainnews/playlist.m3u8</link>
         <thumbnail>https://lh4.googleusercontent.com/-KfTdgW8JQkA/VPYaRlybV8I/AAAAAAAABmk/GLxOy6CKmNI/s300/captainneews.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Polimer News [IN]</title>
-        <link>http://polimernews3.livewebcast.in/polimernews/polimernews.stream/playlist.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-10wms9qF4Nw/VKcA3IlFGWI/AAAAAAAAAi0/YAI5o1usXlU/s300/300x300_polimernews.png</thumbnail>
     </item>
 
     <item>
