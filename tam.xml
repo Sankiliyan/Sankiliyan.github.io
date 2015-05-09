@@ -26,6 +26,12 @@
 
 <items>
 
+        <item>
+	<title>IBC Tamil</title>
+        <link>rtmp://151.252.39.132:1935/live/ibc_tamil_480.stream</link>
+	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
+</item>
+	
 	<item>
         <title>Deepam TV [UK] [720p]</title>
         <link>rtmp://qcloudmedia.com/live/ukdeepam</link>
@@ -33,11 +39,10 @@
     </item>
     
       <item>
-        <title>Vijay TV [US]</title>
-        <link>http://192.99.24.176:8080/starvijay/starvijay/index.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-in76vaZDKwI/VQByA_QHMHI/AAAAAAAABxc/3opnRLshviA/s300/us_vijay.png</thumbnail>
+        <title>Vannathirai TV</title>
+        <link>yupp=2469</link>
+        <thumbnail>https://lh3.googleusercontent.com/-qxv3aWsvz9g/VTp4w73tdsI/AAAAAAAACSU/l2M9L_CpGWw/s300/vannathirai.png</thumbnail>
     </item>
-
     
     <item>
         <title>Venthar TV</title>
