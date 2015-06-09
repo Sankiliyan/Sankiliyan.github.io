@@ -33,28 +33,28 @@
 </item>
 	
 	<item>
-        <title>Deepam TV [UK] [720p]</title>
-        <link>rtmp://qcloudmedia.com/live/ukdeepam</link>
-        <thumbnail>https://lh5.googleusercontent.com/-HpFWQH2NHoQ/VKb_YpgEPkI/AAAAAAAAAao/E_gV1MyKrkM/s300/300x300_0011_deepam.png</thumbnail>
+        <title>GTV [UK]</title>
+        <link>http://cdn.tamilone.net/star-live-1/_definst_/mp4:gtvnew/playlist.m3u8</link>
+        <thumbnail>http://www.gtv-network.com/gtv_logo.jpg</thumbnail>
     </item>
     
       <item>
-        <title>Kalaignar TV</title>
-        <link>rtmp://87.98.150.108:1935/live/kalaignar_ott.stream</link>
-        <thumbnail>http://atvtam.googlecode.com/svn/trunk/kalav.png</thumbnail>
+        <title>Tamil TV</title>
+        <link>http://tv-streamer-lon-01.orutv.com/broadcast.m3u8</link>
+        <thumbnail>https://lh3.googleusercontent.com/-V92lhLU17Ww/VVusJ5dWkEI/AAAAAAAACaI/0Hy0ZRJNqHk/s300/tamiltv.png</thumbnail>
     </item>
     
     <item>
-        <title>Venthar TV</title>
-        <link>rtmp://stream.waxcloud.com/gladston-live/play/mp4:vendhartv</link>
-        <thumbnail>https://lh3.googleusercontent.com/-w7DjuRD4st8/VPYaaKvMlTI/AAAAAAAABmg/rS81P_xCW7Y/s300/venthar.png</thumbnail>
+        <title>Masala TV</title>
+        <link>rtmp://188.166.127.249:1935/masalatv/myStream</link>
+        <thumbnail>https://lh3.googleusercontent.com/-DYQrf2B_3Jc/VVfcaacR-ZI/AAAAAAAACZM/UQKIq4XAT34/s300/masalatv.png</thumbnail>
     </item>
 
-	<item>
-		<title>Vimbam TV</title>
-		<link>rtmp://91.219.43.148:1935/vimbamtv/vimbamtv</link>
-		<thumbnail>https://lh3.googleusercontent.com/-rJmEv0IF1wk/VQqELIpE6pI/AAAAAAAAB5k/tz-3NFnVfUs/s300/vimbamsl.png</thumbnail>
-	</item>
+     <item>
+        <title>Tamilan24</title>
+        <link>rtmp://188.166.127.249/masalaplus/myStream</link>
+        <thumbnail>https://lh3.googleusercontent.com/-yTAoTQYNlAc/VVfcaX6b5WI/AAAAAAAACZQ/TZ_KlycxNuY/s300/tamilan24.png</thumbnail>
+    </item>
 
     <item>
         <title>EETV [CANADA]</title>
@@ -80,12 +80,6 @@
 		<thumbnail>https://lh4.googleusercontent.com/-q713auZkwuk/VKcA3ncq8wI/AAAAAAAAAi4/gs3NVcvAmmA/s300/300x300_puthiyathalaimurai.png</thumbnail>
 	</item>
 
-    <item>
-        <title>Thanthi TV News [IN]</title>
-		<link>http://edge.purplestream.com/live/ttv/amlst:dttv/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-rZurlJLIMTg/VKcA2vOe7mI/AAAAAAAAAig/qCqM1-QXOWw/s300/300x300_Thanthi.png</thumbnail>
-    </item>
-
 	<item>
 		<title>News 7 [IN]</title>
 		<link>http://d3ckekzltx4vtl.cloudfront.net/ns7org/smil:ns7.smil/playlist.m3u8</link>
@@ -102,30 +96,6 @@
         <title>Puthuyugam [IN]</title>
         <link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
         <thumbnail>https://lh5.googleusercontent.com/-CNxUhE_DHQ0/VKcBUfIo5xI/AAAAAAAAAmI/4MWhJMMKc20/s300/300x300_puthuyugam.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Raj Digital Plus</title>
-        <link>http://80.243.182.106:8080/rajtvplus0022/raajtvplus0022/index.m3u8</link>
-        <thumbnail>https://lh6.googleusercontent.com/-Pl1eaXkhNDg/VKcBUy7vRCI/AAAAAAAAAmQ/-pOMGU7pnpM/s300/300x300_raj_digitalplus.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Raj TV</title>
-        <link>http://80.243.182.106:8080/rajtv40/rajtv40/index.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-PnrR92G4Fs8/VKcBVbZi6UI/AAAAAAAAAmo/0Y5GhYzKvfQ/s300/300x300_raj_tv.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Zee Thamizh</title>
-        <link>http://192.99.24.176:8080/zeetamil/zeetamili/index.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-mIPMwoQqd58/VQpy1wKL7FI/AAAAAAAAB40/U3fRllQb10I/s300/zeetamil.png</thumbnail>
-    </item>
-
-    <item>
-        <title>SEPL TV</title>
-        <link>http://46.249.213.93/iPhone/broadcast/seplmoviesindia-tablet.3gp/seplmoviesindia-tablet.3gp-mr497k.m3u8?trackingid=5161900000&os=desktop</link>
-        <thumbnail>https://lh5.googleusercontent.com/-As5f_W_AawQ/VPYaYZnJfbI/AAAAAAAABmk/rcpXSHDn_qI/s300/sepl.png</thumbnail>
     </item>
 
     <item>
@@ -158,24 +128,12 @@
         <thumbnail>https://lh3.googleusercontent.com/-ESVy-04sOKw/VPYaRS9HztI/AAAAAAAABmk/Evh3_H0gbIE/s300/captain.png</thumbnail>
     </item>
 
-    <item>
-        <title>Jil Jil TV</title>
-        <link>rtmp://emedias.com/jiljiltv/live1</link>
-        <thumbnail>https://lh6.googleusercontent.com/-_Qwo-KY9MdA/VKcBQt1UlyI/AAAAAAAAAkw/HDxBO6ANqoo/s300/300x300_jiljiltv.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Jayam TV</title>
-        <link>http://jayamtvlive3.chennaistream.net/jayamtvlive/jayamtvlive.stream/playlist.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-uA6Y-bST2iU/VNfKqzfgTsI/AAAAAAAABJ8/B0LgaozyFpE/s300/jayam.png</thumbnail>
-    </item>
-
-b    <item>
+   <item>
         <title>Dheeran TV [IN]</title>
         <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
         <thumbnail>https://lh3.googleusercontent.com/-xWgsrpH9qIA/VKcBOXqyDZI/AAAAAAAAAkA/_LtgZQGo1QQ/s300/300x300_dheeran.png</thumbnail>
     </item>
-
+ 
     <item>
         <title>Peppers TV [IN]</title>
         <link>rtmp://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp</link>
