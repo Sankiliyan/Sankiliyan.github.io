@@ -38,6 +38,12 @@
         <thumbnail>https://lh5.googleusercontent.com/-HpFWQH2NHoQ/VKb_YpgEPkI/AAAAAAAAAao/E_gV1MyKrkM/s300/300x300_0011_deepam.png</thumbnail>
     </item>
     
+     <item>
+        <title>Athavan TV [UK]</title>
+        <link>http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/playlist.m3u8</link>
+        <thumbnail>https://lh5.googleusercontent.com/-fTfUqRPH0ls/VKb_YDtiyjI/AAAAAAAAAaU/rBlivK8EJnA/s300/300x300_0005_athavan.png</thumbnail>
+     </item>
+    
       <item>
         <title>Tamil TV</title>
         <link>http://tv-streamer-lon-01.orutv.com/broadcast.m3u8</link>
@@ -86,13 +92,7 @@
 		<thumbnail>https://lh4.googleusercontent.com/-H_foDy-SQVs/VKcA2yrVXQI/AAAAAAAAAiw/uyNbd4yh0fQ/s300/300x300_news7.png</thumbnail>
 	</item>
 
-    <item>
-        <title>Athavan TV [UK]</title>
-        <link>http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/playlist.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-fTfUqRPH0ls/VKb_YDtiyjI/AAAAAAAAAaU/rBlivK8EJnA/s300/300x300_0005_athavan.png</thumbnail>
-    </item>
-
-    <item>
+        <item>
         <title>Puthuyugam [IN]</title>
         <link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
         <thumbnail>https://lh5.googleusercontent.com/-CNxUhE_DHQ0/VKcBUfIo5xI/AAAAAAAAAmI/4MWhJMMKc20/s300/300x300_puthuyugam.png</thumbnail>
