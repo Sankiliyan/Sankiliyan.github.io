@@ -28,13 +28,13 @@
 
         <item>
 	<title>IBC Tamil</title>
-        <link>rtmp://151.252.39.132:1935/live/ibc_tamil_480.stream</link>
+        <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
 	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
 </item>
 	
 	<item>
         <title>Deepam[UK]</title>
-        <link>http://alturl.com/a8wr4</link>
+        <link>http://185.59.222.89:1935/cdn/deepamtvuk.stream/playlist.m3u8</link>
         <thumbnail>https://lh5.googleusercontent.com/-HpFWQH2NHoQ/VKb_YpgEPkI/AAAAAAAAAao/E_gV1MyKrkM/s300/300x300_0011_deepam.png</thumbnail>
     </item>
     
