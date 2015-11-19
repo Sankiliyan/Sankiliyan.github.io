@@ -28,7 +28,7 @@
 
         <item>
 	<title>IBC Tamil</title>
-        <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
+        <link>http://151.252.39.132:1935/ibc_hd/ibc_hd.stream/playlist.m3u8</link>
 	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
 </item>
 	
@@ -39,8 +39,8 @@
     </item>
     
      <item>
-        <title>Athavan TV [UK]</title>
-        <link>http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/playlist.m3u8</link>
+        <title>TTN Tamil</title>
+        <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
         <thumbnail>https://lh5.googleusercontent.com/-fTfUqRPH0ls/VKb_YDtiyjI/AAAAAAAAAaU/rBlivK8EJnA/s300/300x300_0005_athavan.png</thumbnail>
      </item>
     
