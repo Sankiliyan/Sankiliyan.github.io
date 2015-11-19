@@ -50,19 +50,7 @@
         <thumbnail>https://lh5.googleusercontent.com/-XVqj8SAeI3I/VPoWn3anV1I/AAAAAAAABrM/4vpw7GrEeSI/s128/lankasri.png</thumbnail>
     </item>
     
-      <item>
-        <title>Tamil TV</title>
-        <link>http://tv-streamer-lon-01.orutv.com/broadcast.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-V92lhLU17Ww/VVusJ5dWkEI/AAAAAAAACaI/0Hy0ZRJNqHk/s300/tamiltv.png</thumbnail>
-    </item>
-    
     <item>
-        <title>Masala TV</title>
-        <link>rtmp://188.166.127.249:1935/masalatv/myStream</link>
-        <thumbnail>https://lh3.googleusercontent.com/-DYQrf2B_3Jc/VVfcaacR-ZI/AAAAAAAACZM/UQKIq4XAT34/s300/masalatv.png</thumbnail>
-    </item>
-
-     <item>
         <title>Athava TV</title>
         <link>http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/playlist.m3u8</link>
         <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
@@ -74,15 +62,9 @@
         <thumbnail>https://lh5.googleusercontent.com/-hQeXAMrHHf4/VKb-ckR8FkI/AAAAAAAAAWQ/tJtc-ii5c6E/s300/300x300_0007_eettv.png</thumbnail>
     </item>
 
-    <item>
-        <title>Engada TV [CANADA]</title>
-		<link>http://livestream.5centscdn.com/engadatv/0943f8da9e4ed54570ffa034947dc53a.sdp/playlist.m3u8</link>
-        <thumbnail>https://lh6.googleusercontent.com/-d8Qay-JG2sA/VMzpRtuj4bI/AAAAAAAAA3M/BGILHHkfLuA/s300/engadatv.png</thumbnail>
-    </item>
-
      <item>
 		<title>Puthiya Thalaimurai News [IN]</title>
-		<link>http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/playlist.m3u8</link>
+		<link>http://d2jqwvxr2hmmx1.cloudfront.net/ptm/live/playlist.m3u8</link>
 		<thumbnail>https://lh4.googleusercontent.com/-q713auZkwuk/VKcA3ncq8wI/AAAAAAAAAi4/gs3NVcvAmmA/s300/300x300_puthiyathalaimurai.png</thumbnail>
 	</item>
 
@@ -94,20 +76,14 @@
 
         <item>
         <title>Puthuyugam [IN]</title>
-        <link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
+        <link>http://d211bpuke56xnv.cloudfront.net/ngmedia/pym_400/chunklist.m3u8</link>
         <thumbnail>https://lh5.googleusercontent.com/-CNxUhE_DHQ0/VKcBUfIo5xI/AAAAAAAAAmI/4MWhJMMKc20/s300/300x300_puthuyugam.png</thumbnail>
     </item>
 
     <item>
-        <title>Dan Yarl Oli [FR]</title>
-        <link>http://iphone-streaming.ustream.tv/uhls/8774680/streams/live/iphone/playlist.m3u8</link>
+        <title>Makkal TV]</title>
+        <link>http://d2afgi50xkghyg.cloudfront.net/makkalorg/smil:makkaltv.smil/playli%20st.m3u8</link>
         <thumbnail>https://lh5.googleusercontent.com/-d5_6Ix5ehHI/VKb_YMbOe9I/AAAAAAAAAaQ/W66cCL-UkXQ/s300/300x300_0010_danyarloli.png</thumbnail>
-	</item>
-
-    <item>
-        <title>Super TV</title>
-        <link>http://edge.purplestream.com/live/SuperTV/amlst:supertv/playlist.m3u8</link>
-        <thumbnail>https://lh6.googleusercontent.com/-0LIRMhzsDM4/VPYaY_PcUHI/AAAAAAAABmk/BXQmCGABvd8/s300/supertv.png</thumbnail>
 	</item>
 
     <item>
@@ -121,188 +97,19 @@
 		<link>http://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8</link>
         <thumbnail>https://lh6.googleusercontent.com/-bfAHfOoD2Q4/VR3sqaZHwaI/AAAAAAAACHo/T-YsiVTAVhQ/s300/tunes6.png</thumbnail>
     </item>
-
-    <item>
-        <title>Captain TV</title>
-        <link>http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-ESVy-04sOKw/VPYaRS9HztI/AAAAAAAABmk/Evh3_H0gbIE/s300/captain.png</thumbnail>
-    </item>
-
-   <item>
-        <title>Dheeran TV [IN]</title>
-        <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-xWgsrpH9qIA/VKcBOXqyDZI/AAAAAAAAAkA/_LtgZQGo1QQ/s300/300x300_dheeran.png</thumbnail>
-    </item>
- 
+   
     <item>
         <title>Peppers TV [IN]</title>
         <link>rtmp://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp</link>
         <thumbnail>https://lh3.googleusercontent.com/-T03QZQwQ0ok/VKcBUB_3ouI/AAAAAAAAAl4/egZiQW5tASM/s300/300x300_peppers.png</thumbnail>
     </item>
 
-	<item>
-        <title>Arra TV [IN]</title>
-        <link>http://edge.purplestream.com/live/arramedia/amlst:arratv/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-SA-VHCBGp6o/VKcBNu0iVVI/AAAAAAAAAjs/YGEYePWUZME/s300/300x300_arratv.png</thumbnail>
-    </item>
-
     <item>
-        <title>Shalini Web TV [IN]</title>
-        <link>rtmp://live.wmncdn.net/shalini/ playpath=7bb6687be4c09693ced378f17133c850.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf pageUrl=http://livetvchannelsfree.com/shalinitv.html</link>
-        <thumbnail>https://lh3.googleusercontent.com/-uoh0wWxQP-A/VKcBV2ygGZI/AAAAAAAAAm4/EOYV2bbRJvI/s300/300x300_shalini.png</thumbnail>
-    </item>
-
-	<item>
-        <title>Sivan TV [SWISS]</title>
-        <link>rtmp://rtmp.infomaniak.ch/livecast playpath=sivan swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.47.swf?bLd=0&amp;sTitle=&amp;sVersion=4%2E2%2E47&amp;sDescription= pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=sivan&amp;name=sivan_tv&amp;player=1643 timeout=15</link>
-        <thumbnail>https://lh5.googleusercontent.com/-7SUA9CXktCE/VKb_YZ9B3CI/AAAAAAAAAaY/VzTn6KvDX4g/s300/300x300_0004_sivantv.png</thumbnail>
-    </item>
-
-        <item>
 		<title>Ohm TV [UK]</title>
 		<link>http://livestream.5centscdn.com/ohmtvvxtv/bfb40efd0d961d175d0f38097fb6072f.sdp/playlist.m3u8</link>
 		<thumbnail>https://lh5.googleusercontent.com/-Xkbyd2Bjvf0/VKcBT3LC8tI/AAAAAAAAAmA/6sKD0uGvh30/s300/300x300_ohm.png</thumbnail>
 	</item>
-
-	<item>
-        <title>Sri Sankara TV</title>
-        <link>http://live.wmncdn.net/srisankaratv1/9eb9148fa87e403c1366c8d9aed89bed.sdp/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-waBaLnaJkco/VKcBVqaOw-I/AAAAAAAAApM/z83KWwh2Glc/s300/300x300_sankara.png</thumbnail>
-	</item>
-
-    <item>
-        <title>Shakthi News 1st</title>
-        <link>http://iphone-streaming.ustream.tv/ustreamVideo/19806474/streams/live/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-kZPBnVnXHc4/VP3Pb8RbEjI/AAAAAAAABxA/Q2wx-VJL5ic/s300/shakthi.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Vasantham TV [SL]</title>
-        <link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=true pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
-        <thumbnail>https://lh5.googleusercontent.com/-TgO9RPsLdJ4/VKcANWisBHI/AAAAAAAAAfg/QRfV-PF0iMw/s300/300x300_vasantham.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Nethra TV [SL]</title>
-        <link>http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-K6GIImKHYOI/VKcANfUYYZI/AAAAAAAAAfY/9WXfiwahWrU/s300/300x300_nethratv.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Boss TV</title>
-        <link>http://bosstv1.chennaistream.net/bosstv/bosstv.stream/playlist.m3u8</link>
-        <thumbnail>https://lh3.googleusercontent.com/-IXZLfudRDIM/VPYaRMb8iJI/AAAAAAAABmk/_dpXvWtrCTI/s300/bosstv.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Krishna TV</title>
-        <link>http://krishnatv.livewebcast.in/krishnatv/krishnatv.stream/playlist.m3u8</link>
-        <thumbnail>https://lh6.googleusercontent.com/-L0OXg_tXJWY/VPYaTFRfLwI/AAAAAAAABmk/iNxPnIekoWY/s300/krishna.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Tamilan TV</title>
-        <link>http://38.96.175.192:1943/live/tamilantelevision1/playlist.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-H6pOpbA1Zfg/VPYaZKjWQTI/AAAAAAAABfc/fj_I2zTFMw0/s300/thamilan.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Jaya News</title>
-        <link>rtmp://78.46.17.7/live//myStream.sdp</link>
-        <thumbnail>https://lh5.googleusercontent.com/-qISMVwG2h7U/VPYacWr9f9I/AAAAAAAABmg/Nkasfvk6vw4/s300/jaya_plus.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Captain News</title>
-        <link>http://edge.purplestream.com/live/captain/amlst:captainnews/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-KfTdgW8JQkA/VPYaRlybV8I/AAAAAAAABmk/GLxOy6CKmNI/s300/captainneews.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Lotus News [IN]</title>
-        <link>rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://desichannels.webnode.com/hindi-channels/</link>
-        <thumbnail>https://lh4.googleusercontent.com/-mEwdEz2gARA/VKcA2_LNP6I/AAAAAAAAAjM/HYshRx9Agr4/s300/300x300_lotus.png</thumbnail>
-    </item>
-
-    <item>
-        <title>FA TV Tamil</title>
-        <link>rtmp://109.228.13.240:1935/live playpath=myStream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf live=true pageUrl=http://www.firstaudio.net/beta/live/fatv.html</link>
-        <thumbnail>https://lh6.googleusercontent.com/-4CTVgrPrpok/VKcBO8pzKNI/AAAAAAAAAkM/M6bULpxmxsw/s300/300x300_fatv.png</thumbnail>
-    </item>
-
-    <item>
-		<title>BBC News [UK]</title>
-		<link>giniko=27</link>
-		<thumbnail>https://lh4.googleusercontent.com/-IxquzI-XJYo/VKb9pgr7EUI/AAAAAAAAAV4/ebp8tyx8QLc/s300/300x300_bbcnews.png</thumbnail>
-	</item>
-
-	<item>
-		<title>BBC World [UK]</title>
-		<link>giniko=216</link>
-		<thumbnail>https://lh6.googleusercontent.com/-OPtMyjnXxQ8/VKb9qPrDX0I/AAAAAAAAAVY/6NMz2IchQhM/s300/300x300_bbcworld.png</thumbnail>
-	</item>
-
-	<item>
-		<title>BBC Two</title>
-		<link>giniko=190</link>
-		<thumbnail>https://lh3.googleusercontent.com/-neZBS9DtjkI/VKb9pxPlv2I/AAAAAAAAAVo/89S7g3eUFk4/s300/300x300_bbctwo.png</thumbnail>
-	</item>
-
-	<item>
-		<title>BBC Three</title>
-		<link>giniko=191</link>
-		<thumbnail>https://lh5.googleusercontent.com/-kWvPC7bsnx4/VKb9pXkJVLI/AAAAAAAAAVE/WVjjVblztyU/s300/300x300_bbcthree.png</thumbnail>
-	</item>
-
-	<item>
-		<title>France 24</title>
-		<link>giniko=93</link>
-		<thumbnail>https://lh6.googleusercontent.com/-Cmul8o1ps9o/VKb9qCYvKpI/AAAAAAAAAVw/zCfdhfGc7Fo/s300/300x300_france24.png</thumbnail>
-	</item>
-
-	<item>
-        <title>CP24</title>
-        <link>http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-U61eC7OQ_ow/VPteBANsumI/AAAAAAAABuw/NdlnXM1goVE/s300/cp24.png</thumbnail>
-    </item>
-
-	<item>
-        <title>CTV NEWS</title>
-        <link>http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-jyihb89KtoA/VPtfW5y1BGI/AAAAAAAABwg/oKgeLSvHEQ4/s300/ctvnews.png</thumbnail>
-    </item>
-
-	<item>
-		<title>Aljazeera</title>
-		<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8?dev=website</link>
-		<thumbnail>https://lh3.googleusercontent.com/-PB6NlgHgNQQ/VKb9pt4OLOI/AAAAAAAAAVQ/2F_DYAT8WUg/s300/300x300_aljazeera.png</thumbnail>
-	</item>
-
-	<item>
-		<title>[Christianity] Angel TV</title>
-		<link>giniko=114</link>
-		<thumbnail>https://lh3.googleusercontent.com/-_lW7VsYq7NU/VNF_qwJOEmI/AAAAAAAAA3s/NIPULJX8Nt8/s300/chr_angel.png</thumbnail>
-	</item>
-
-	<item>
-		<title>[Christianity] Holy God</title>
-		<link>giniko=162</link>
-		<thumbnail>https://lh5.googleusercontent.com/--7AJWqc5jaA/VNF_qvLtCaI/AAAAAAAAA3w/jKqhP5s35xE/s300/chr_holygod.png</thumbnail>
-	</item>
-
-	<item>
-		<title>[Christianity] Maatha TV</title>
-		<link>http://madhatv.cherritech.us/madhatv/_definst_/mp4:myStream/playlist.m3u8</link>
-		<thumbnail>https://lh3.googleusercontent.com/-3tU7GilWWb4/VQp03q5u5RI/AAAAAAAAB5E/eksHg_zcotc/s300/madha.png</thumbnail>
-	</item>
-
-	<item>
-		<title>[Muslim] Moon TV</title>
-		<link>http://stream.mslive.co.in:1973/live/gmoon/playlist.m3u8</link>
-		<thumbnail>https://lh3.googleusercontent.com/-fNR2gajfyuM/VQp5sVsbXnI/AAAAAAAAB5U/LYkFwccAB1M/s300/moontv.png</thumbnail>
-	</item>
-
-
+	
 </items>
 
 
