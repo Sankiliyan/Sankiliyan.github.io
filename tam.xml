@@ -41,8 +41,14 @@
      <item>
         <title>TTN Tamil</title>
         <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
-        <thumbnail>https://lh5.googleusercontent.com/-fTfUqRPH0ls/VKb_YDtiyjI/AAAAAAAAAaU/rBlivK8EJnA/s300/300x300_0005_athavan.png</thumbnail>
+        <thumbnail>http://www.mediaworldasia.dk/images/stories/makrologo/tamil/ttn.jpg</thumbnail>
      </item>
+     
+      <item>
+        <title>Lankasri TV [UK]</title>
+	<link>rtmp://livestream.5centscdn.com/lankasri//95288457cc3a4eee972ab527553cef34.sdp</link>
+        <thumbnail>https://lh5.googleusercontent.com/-XVqj8SAeI3I/VPoWn3anV1I/AAAAAAAABrM/4vpw7GrEeSI/s128/lankasri.png</thumbnail>
+    </item>
     
       <item>
         <title>Tamil TV</title>
@@ -57,9 +63,9 @@
     </item>
 
      <item>
-        <title>Tamilan24</title>
-        <link>rtmp://188.166.127.249/masalaplus/myStream</link>
-        <thumbnail>https://lh3.googleusercontent.com/-yTAoTQYNlAc/VVfcaX6b5WI/AAAAAAAACZQ/TZ_KlycxNuY/s300/tamilan24.png</thumbnail>
+        <title>Athava TV</title>
+        <link>http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/playlist.m3u8</link>
+        <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
     </item>
 
     <item>
@@ -74,13 +80,7 @@
         <thumbnail>https://lh6.googleusercontent.com/-d8Qay-JG2sA/VMzpRtuj4bI/AAAAAAAAA3M/BGILHHkfLuA/s300/engadatv.png</thumbnail>
     </item>
 
-    <item>
-        <title>Lankasri TV [UK]</title>
-		<link>http://livestream.5centscdn.com/lankasritest/c4283d4ad045eea5fcd4cf555bdabd2e.sdp/playlist.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-XVqj8SAeI3I/VPoWn3anV1I/AAAAAAAABrM/4vpw7GrEeSI/s128/lankasri.png</thumbnail>
-    </item>
-
-    <item>
+     <item>
 		<title>Puthiya Thalaimurai News [IN]</title>
 		<link>http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/playlist.m3u8</link>
 		<thumbnail>https://lh4.googleusercontent.com/-q713auZkwuk/VKcA3ncq8wI/AAAAAAAAAi4/gs3NVcvAmmA/s300/300x300_puthiyathalaimurai.png</thumbnail>
