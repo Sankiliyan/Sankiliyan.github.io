@@ -117,7 +117,7 @@
 <channel>
     <name>Tamil Live Radio</name>
 <info>Tamil Live Radio</info>
-    <thumbnail>http://tamiltv.webs.com/screenshot000%20-%20Copy%20%2810%29.png</thumbnail>
+    <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
 <fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
 	
 </subitem>
@@ -317,12 +317,12 @@
 <channel>
     <name>Tamil Eelam</name>
 <info>Tamil Eelam</info>
-    <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Emblem_of_Tamil_Eelam.svg/600px-Emblem_of_Tamil_Eelam.svg.png</thumbnail>
+    <thumbnail>http://images1.wikia.nocookie.net/__cb20100220012025/cybernations/images/6/62/Tamil_Eelam_icon.PNG</thumbnail>
 <fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
 	
 <subchannel>
 <name>Tamil Eelam</name>
- <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Emblem_of_Tamil_Eelam.svg/600px-Emblem_of_Tamil_Eelam.svg.png</thumbnail>
+ <thumbnail>http://images1.wikia.nocookie.net/__cb20100220012025/cybernations/images/6/62/Tamil_Eelam_icon.PNG</thumbnail>
 </subitems>
 
 <item>
