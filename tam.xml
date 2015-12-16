@@ -28,7 +28,7 @@
 
         <item>
 	<title>IBC Tamil</title>
-        <link>rtmp://151.252.39.132:1935/live/ibc_tamil_480.stream</link>
+        <link>http://151.252.39.132:1935/live/ibctamil_tv/playlist.m3u8</link>
 	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
 </item>
 	
