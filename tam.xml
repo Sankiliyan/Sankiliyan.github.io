@@ -38,11 +38,11 @@
         <thumbnail>https://lh5.googleusercontent.com/-HpFWQH2NHoQ/VKb_YpgEPkI/AAAAAAAAAao/E_gV1MyKrkM/s300/300x300_0011_deepam.png</thumbnail>
     </item>
     
-     <item>
+     <iteminactive>
         <title>TTN Tamil</title>
         <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
         <thumbnail>http://www.mediaworldasia.dk/images/stories/makrologo/tamil/ttn.jpg</thumbnail>
-     </item>
+     </iteminactive>
      
       <item>
         <title>ZEE TAMIL</title>
