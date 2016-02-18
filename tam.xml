@@ -38,23 +38,29 @@
         <thumbnail>https://lh5.googleusercontent.com/-HpFWQH2NHoQ/VKb_YpgEPkI/AAAAAAAAAao/E_gV1MyKrkM/s300/300x300_0011_deepam.png</thumbnail>
     </item>
     
-     <iteminactive>
+     <item>
         <title>TTN Tamil</title>
         <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
         <thumbnail>http://www.mediaworldasia.dk/images/stories/makrologo/tamil/ttn.jpg</thumbnail>
-     </iteminactive>
+     </item>
      
       <item>
-        <title>ZEE TAMIL</title>
-	<link>http://stream.zeefamily.tv/zeetamil/index.m3u8</link>
-        <thumbnail>https://yt3.ggpht.com/-VcC4S6mvdE8/AAAAAAAAAAI/AAAAAAAAAAA/ksQgPouEe30/s900-c-k-no/photo.jpg</thumbnail>
+        <title>SiripoliL</title>
+	<link>hhttp://185.59.222.89:1935/cdn/sirippolihd/playlist.m3u8</link>
+        <thumbnail>http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Siripoli.png</thumbnail>
     </item>
     
     <item>
-        <title>Athava TV</title>
-        <link>http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/playlist.m3u8</link>
+        <title>Athavan TV</title>
+        <link>http://play-fs.amgiptv.com/vxtvathavan/athavantvlive.stream/playlist.m3u8</link>
         <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
     </item>
+    
+    <iteminactive>
+        <title>Athavan TV</title>
+        <link>http://play-fs.amgiptv.com/vxtvathavan/athavantvlive.stream/playlist.m3u8</link>
+        <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
+    </iteminactive>
 
     <item>
         <title>EETV [CANADA]</title>
