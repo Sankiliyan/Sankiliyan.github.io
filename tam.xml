@@ -28,7 +28,7 @@
 
         <item>
 	<title>IBC Tamil</title>
-        <link>http://151.252.39.85/ibctamil/ibctamil.smil/playlist.m3u8</link>
+        <link>http://ibctamil.zecast.net/ibctamil/smil:ibctamil.smil/playlist.m3u8</link>
 	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
 </item>
 	
@@ -45,9 +45,9 @@
      </item>
      
       <item>
-        <title>SirippoliL</title>
-	<link>http://185.59.222.89:1935/cdn/sirippolihd/playlist.m3u8</link>
-        <thumbnail>http://3.bp.blogspot.com/-a6Rvl-UZTyg/US3Eimb1igI/AAAAAAAABiM/o4MY8oRpmZo/s1600/siripoli_in.jpg</thumbnail>
+        <title>KTV</title>
+	<link>http://play-fs.amgiptv.com/vxtvktv/esselktv.stream/playlist.m3u8</link>
+        <thumbnail>http://www.tamilmv.net/wp-content/uploads/2015/11/sun_kondattam_tv-125x150.png</thumbnail>
     </item>
     
     <item>
@@ -56,11 +56,17 @@
         <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
     </item>
     
-    <iteminactive>
-        <title>Athavan TV</title>
-        <link>http://play-fs.amgiptv.com/vxtvathavan/athavantvlive.stream/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
-    </iteminactive>
+    <item>
+        <title>ZEE TV</title>
+        <link>http://play-fs.amgiptv.com/vxtvzeetamil/zeetamil.stream/playlist.m3u8</link>
+        <thumbnail>https://yt3.ggpht.com/-VcC4S6mvdE8/AAAAAAAAAAI/AAAAAAAAAAA/ksQgPouEe30/s900-c-k-no/photo.jpg</thumbnail>
+    </item>
+  
+     <item>
+        <title>ZEE TV UK TIME</title>
+        <link>http://stream.zliving.online/zeetamilts_domain_tracking/index.m3u8</link>
+        <thumbnail>https://yt3.ggpht.com/-VcC4S6mvdE8/AAAAAAAAAAI/AAAAAAAAAAA/ksQgPouEe30/s900-c-k-no/photo.jpg</thumbnail>
+    </item>
 
     <item>
         <title>EETV [CANADA]</title>
