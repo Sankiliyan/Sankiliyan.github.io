@@ -81,21 +81,21 @@
 	</item>
 
 	<item>
-		<title>TVI</title>
-		<link>https://youtu.be/oMANCri5f1c</link>
-		<thumbnail>http://abroadindia.com/logos/tamil/tamilvisiontv.jpg</thumbnail>
+		<title>JAYA Tv</title>
+		<link>http://mobile.amgiptv.com/vxtvlqjayatv/lqjayatv.stream/playlist.m3u8</link>
+		<thumbnail>http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Jaya_TV.png</thumbnail>
 	</item>
 
         <item>
-        <title>Puthuyugam [IN]</title>
-        <link>http://d211bpuke56xnv.cloudfront.net/ngmedia/pym_400/chunklist.m3u8</link>
-        <thumbnail>https://lh5.googleusercontent.com/-CNxUhE_DHQ0/VKcBUfIo5xI/AAAAAAAAAmI/4MWhJMMKc20/s300/300x300_puthuyugam.png</thumbnail>
+        <title>Jaya plus</title>
+        <link>rtmp://78.46.17.7/live/myStream.sdp</link>
+        <thumbnail>https://csa.dishnetwork.com/images/logos/JAYAPLUS.PNG</thumbnail>
     </item>
 
     <item>
-        <title>Makkal TV</title>
-        <link>http://d2afgi50xkghyg.cloudfront.net/makkalorg/smil:makkaltv.smil/playli%20st.m3u8</link>
-        <thumbnail>https://tamilliveblog.files.wordpress.com/2015/09/makkal-tv.jpg?w=150&h=97</thumbnail>
+        <title>JAYA Movie</title>
+        <link>http://play-fs.amgiptv.com/vxtvjayamovies/jayamovies.stream/playlist.m3u8</link>
+        <thumbnail>http://www.newtvworld.com/Images/Jaya-Movies.png</thumbnail>
 	</item>
 
     <item>
