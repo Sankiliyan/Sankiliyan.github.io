@@ -15,7 +15,7 @@
    <name>Sankiliyan Tamil TV</name>
 <info>Tamil Live TV Streaming</info>
     <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
-<fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
+<fanart/>Sankiliyan.github.io/Cankili.jpg<fanart/>
 </item>
 
 <item>
@@ -37,6 +37,13 @@
         <link>http://iptv3.cdn0077.com/vijay_iptv1/sunINDIA/playlist.m3u8</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1222px-Sun_TV_logo.svg.png</thumbnail>
     </item>
+    
+type=video
+name=Siripoli
+thumb=http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Siripoli.png
+URL=http://play-fs.amgiptv.com/vxtvsiripoli/siripoli.stream/playlist.m3u8
+player=default
+rating=-1.00
     
      <item>
         <title>TTN Tamil</title>
