@@ -5,8 +5,8 @@
       <title>Sankiliyan Tamil TV</title> <!-- if channels_info_ a title is required, other elements are optional -->
       <genre>TV</genre>
       <description>Tamil TV</description>
-      <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
-      <fanart>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</fanart>
+      <thumbnail>https://www.dropbox.com/s/ajklep2ypfailka/vanakkam2.jpg?dl=0</thumbnail>
+      <fanart>https://www.dropbox.com/s/ajklep2ypfailka/vanakkam2.jpg?dl=0</fanart>
       <date>2013</date>
       <credits>Admin</credits>
     </channels_info>
@@ -14,14 +14,14 @@
 <channel>
    <name>Sankiliyan Tamil TV</name>
 <info>Tamil Live TV Streaming</info>
-    <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
+    <thumbnail>https://www.dropbox.com/s/ajklep2ypfailka/vanakkam2.jpg?dl=0</thumbnail>
 <fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
 </item>
 
 <item>
   <title>Announcement(s): TV channels updated with new channels 01/04/14</title>
 <link>https://dl.dropboxusercontent.com/s/6aaiptcetaivpnv/sankiliyan.mp4?dl=1&token_hash=AAGSAOaR5MthDHC555Y5sWgYXu5QowJZVout6xGKBeG46w</link>
-<thumbnail>http://atvtam.googlecode.com/svn/trunk/infoi.jpg</thumbnail>
+<thumbnail>https://www.dropbox.com/s/ajklep2ypfailka/vanakkam2.jpg?dl=0</thumbnail>
 </items>
 
 <items>
@@ -31,8 +31,15 @@
         <link>http://ibctamil.zecast.net/ibctamil/smil:ibctamil.smil/playlist.m3u8</link>
 	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
 </item>
+
+<item>
+        <title>SARAS TV</title>
+        <link>http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8</link>
+        <thumbnail>http://img.new.livestream.com/events/000000000031d745/f3c0814f-9776-4e2f-b60f-ef625ca68acc.png</thumbnail>
+    </item>
+    
 	
-	<item>
+<item>
         <title>SUN TV</title>
         <link>http://iptv3.cdn0077.com/vijay_iptv1/sunINDIA/playlist.m3u8</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1222px-Sun_TV_logo.svg.png</thumbnail>
@@ -106,11 +113,7 @@
     </item>
 
   
-   <item>
-        <title>SARAS TV</title>
-        <link>http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8</link>
-        <thumbnail>http://img.new.livestream.com/events/000000000031d745/f3c0814f-9776-4e2f-b60f-ef625ca68acc.png</thumbnail>
-    </item>
+   
 
     <iteminactive>
 		<titlinactivee>Ohm TV [UK]</title>
