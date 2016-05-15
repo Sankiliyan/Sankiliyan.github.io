@@ -5,8 +5,8 @@
       <title>Sankiliyan Tamil TV</title> <!-- if channels_info_ a title is required, other elements are optional -->
       <genre>TV</genre>
       <description>Tamil TV</description>
-      <thumbnail>https://www.dropbox.com/s/jjtj98wsywd2m04/vanakkam2.jpg</thumbnail>
-      <fanart>https://www.dropbox.com/s/jjtj98wsywd2m04/vanakkam2.jpg</fanart>
+      <thumbnail>https://raw.githubusercontent.com/Sankiliyan/Sankiliyan.github.io/master/vanakkam2.jpg</thumbnail>
+      <fanart>https://raw.githubusercontent.com/Sankiliyan/Sankiliyan.github.io/master/vanakkam2.jpg</fanart>
       <date>2013</date>
       <credits>Admin</credits>
     </channels_info>
@@ -14,14 +14,14 @@
 <channel>
    <name>Sankiliyan Tamil TV</name>
 <info>Tamil Live TV Streaming</info>
-    <thumbnail>https://www.dropbox.com/s/jjtj98wsywd2m04/vanakkam2.jpg</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/Sankiliyan/Sankiliyan.github.io/master/vanakkam2.jpg</thumbnail>
 <fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
 </item>
 
 <item>
   <title>Announcement(s): TV channels updated with new channels 01/04/14</title>
 <link>https://dl.dropboxusercontent.com/s/6aaiptcetaivpnv/sankiliyan.mp4?dl=1&token_hash=AAGSAOaR5MthDHC555Y5sWgYXu5QowJZVout6xGKBeG46w</link>
-<thumbnail>https://www.dropbox.com/s/ajklep2ypfailka/vanakkam2.jpg?dl=0</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/Sankiliyan/Sankiliyan.github.io/master/vanakkam2.jpg</thumbnail>
 </items>
 
 <items>
