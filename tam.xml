@@ -105,20 +105,15 @@
  -        <thumbnail>https://lh5.googleusercontent.com/-CNxUhE_DHQ0/VKcBUfIo5xI/AAAAAAAAAmI/4MWhJMMKc20/s300/300x300_puthuyugam.png</thumbnail>
     </item>
 
-    <item>
-        <title>Tunes 6</title>
-		<link>http://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8</link>
-        <thumbnail>https://lh6.googleusercontent.com/-bfAHfOoD2Q4/VR3sqaZHwaI/AAAAAAAACHo/T-YsiVTAVhQ/s300/tunes6.png</thumbnail>
-    </item>
-   
-    <item>
+  
+   <item>
         <title>SARAS TV</title>
         <link>http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8</link>
         <thumbnail>http://img.new.livestream.com/events/000000000031d745/f3c0814f-9776-4e2f-b60f-ef625ca68acc.png</thumbnail>
     </item>
 
-    <item>
-		<title>Ohm TV [UK]</title>
+    <iteminactive>
+		<titlinactivee>Ohm TV [UK]</title>
 		<link>http://livestream.5centscdn.com/ohmtvvxtv/bfb40efd0d961d175d0f38097fb6072f.sdp/playlist.m3u8</link>
 		<thumbnail>https://lh5.googleusercontent.com/-Xkbyd2Bjvf0/VKcBT3LC8tI/AAAAAAAAAmA/6sKD0uGvh30/s300/300x300_ohm.png</thumbnail>
 	</item>
