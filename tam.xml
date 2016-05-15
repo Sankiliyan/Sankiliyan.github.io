@@ -15,7 +15,7 @@
    <name>Sankiliyan Tamil TV</name>
 <info>Tamil Live TV Streaming</info>
     <thumbnail>http://atvtam.googlecode.com/svn/trunk/vanakkam2.jpg</thumbnail>
-<fanart/>Sankiliyan.github.io/Cankili.jpg<fanart/>
+<fanart/>http://atvtam.googlecode.com/svn/trunk/Cankili.jpg<fanart/>
 </item>
 
 <item>
@@ -38,13 +38,6 @@
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1222px-Sun_TV_logo.svg.png</thumbnail>
     </item>
     
-type=video
-name=Siripoli
-thumb=http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Siripoli.png
-URL=http://play-fs.amgiptv.com/vxtvsiripoli/siripoli.stream/playlist.m3u8
-player=default
-rating=-1.00
-    
      <item>
         <title>TTN Tamil</title>
         <link>rtmp://166.62.121.101:1935/ttn/ttn</link>
@@ -53,14 +46,14 @@ rating=-1.00
      
       <item>
         <title>KTV</title>
-	<link>http://play-fs.amgiptv.com/vxtvktv/esselktv.stream/playlist.m3u8</link>
-        <thumbnail>http://www.tamilmv.net/wp-content/uploads/2015/11/sun_kondattam_tv-125x150.png</thumbnail>
+	<link>http://iptv3.cdn0077.com/vijay_iptv1/ktvINDIA/playlist.m3u8</link>
+        <thumbnail>http://tvimages.burrp.com/images/channels2/movies/ktv_.png</thumbnail>
     </item>
     
     <item>
-        <title>Athavan TV</title>
-        <link>http://play-fs.amgiptv.com/vxtvathavan/athavantvlive.stream/playlist.m3u8</link>
-        <thumbnail>https://lh4.googleusercontent.com/-BcZxSb1Ru8s/VNfLB3CNIJI/AAAAAAAABTc/UIHxuo57vcE/s300/uk_athavan.png</thumbnail>
+        <title>Siripoli TV</title>
+        <link>http://play-fs.amgiptv.com/vxtvsiripoli/siripoli.stream/playlist.m3u8</link>
+        <thumbnail>http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Siripoli.png</thumbnail>
     </item>
     
     <item>
@@ -70,9 +63,9 @@ rating=-1.00
     </item>
   
      <item>
-        <title>ZEE TV UK TIME</title>
-        <link>http://stream.zliving.online/zeetamilts_domain_tracking/index.m3u8</link>
-        <thumbnail>https://yt3.ggpht.com/-VcC4S6mvdE8/AAAAAAAAAAI/AAAAAAAAAAA/ksQgPouEe30/s900-c-k-no/photo.jpg</thumbnail>
+        <title>Kalaingar TV</title>
+        <link>http://mobile.amgiptv.com/vxtvlqkalaingertv/kalaingertvlq.stream/playlist.m3u8</link>
+        <thumbnail>http://kathiravantv.safiullahahamed.com/wp-content/uploads/2015/03/jcxzEBocE.png</thumbnail>
     </item>
 
     <item>
@@ -83,14 +76,14 @@ rating=-1.00
 
      <item>
 		<title>SUN Music</title>
-		<link>http://play-fs.amgiptv.com/vxtvsunmusic/esselsunmusic.stream/playlist.m3u8</link>
+		<link>http://tmvnet.zecast.net/tmvnet-live-1/sunmusictamilmv/playlist.m3u8</link>
 		<thumbnail>http://wikitv.eu/wp-content/uploads/2015/03/SUN-MUSIC.jpg</thumbnail>
 	</item>
 
 	<item>
-		<title>News 7 [IN]</title>
-		<link>http://d3ckekzltx4vtl.cloudfront.net/ns7org/smil:ns7.smil/playlist.m3u8</link>
-		<thumbnail>https://lh4.googleusercontent.com/-H_foDy-SQVs/VKcA2yrVXQI/AAAAAAAAAiw/uyNbd4yh0fQ/s300/300x300_news7.png</thumbnail>
+		<title>TVI</title>
+		<link>https://youtu.be/oMANCri5f1c</link>
+		<thumbnail>http://abroadindia.com/logos/tamil/tamilvisiontv.jpg</thumbnail>
 	</item>
 
         <item>
