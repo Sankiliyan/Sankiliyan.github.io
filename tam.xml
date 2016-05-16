@@ -32,6 +32,12 @@
 	<thumbnail>https://lh3.googleusercontent.com/-IYzUKlD0TcQ/VTvPt75ZLLI/AAAAAAAACSs/IU45mXpAhaE/s300/ibctamil.png</thumbnail>
 </item>
 
+ <item>
+        <title>Deepam TV</title>
+        <link>http://185.59.222.46:1935/cdn/deepamtvuk.stream/playlist.m3u8</link>
+        <thumbnail>https://lh3.googleusercontent.com/-BW9kFUCi9DM/VNfLEn75taI/AAAAAAAABUs/im47rzB32rE/s300/uk_theepam.png</thumbnail>
+     </item>
+
 <item>
         <title>SARAS TV</title>
         <link>http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8</link>
