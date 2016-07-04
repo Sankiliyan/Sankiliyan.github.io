@@ -34,7 +34,7 @@
 
  <item>
         <title>Deepam TV</title>
-        <link>http://185.59.222.46:1935/cdn/deepamtvuk.stream/playlist.m3u8</link>
+        <link>http://185.59.222.46:1935/cdn/deepamtvuk/playlist.m3u8</link>
         <thumbnail>https://lh3.googleusercontent.com/-BW9kFUCi9DM/VNfLEn75taI/AAAAAAAABUs/im47rzB32rE/s300/uk_theepam.png</thumbnail>
      </item>
 
@@ -47,7 +47,7 @@
 	
 <item>
         <title>SUN TV</title>
-        <link>http://iptv3.cdn0077.com/vijay_iptv1/sunINDIA/playlist.m3u8</link>
+        <link>http://66.90.94.218/minnaltv/vaanavil/chunks.m3u8</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1222px-Sun_TV_logo.svg.png</thumbnail>
     </item>
     
@@ -58,27 +58,27 @@
      </item>
      
       <item>
-        <title>KTV</title>
-	<link>http://iptv3.cdn0077.com/vijay_iptv1/ktvINDIA/playlist.m3u8</link>
-        <thumbnail>http://tvimages.burrp.com/images/channels2/movies/ktv_.png</thumbnail>
+        <title>athavan tv</title>
+	<link>http://amglive.mmdlive.lldns.net/amglive/0275c0991e9b4f34b7e1433ec440e923/chunklist_b732000.m3u8</link>
+        <thumbnail>http://talkiesnow.com/wp-content/uploads/2015/08/athavan-tv-online.png>
     </item>
     
     <item>
-        <title>Siripoli TV</title>
-        <link>http://play-fs.amgiptv.com/vxtvsiripoli/siripoli.stream/playlist.m3u8</link>
-        <thumbnail>http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Siripoli.png</thumbnail>
+        <title>Mega tv</title>
+        <link>http://play-fs.amgiptv.com/vxtvmegatv/megatv.stream/playlist.m3u8</link>
+        <thumbnail>http://tamilnilan.weebly.com/uploads/6/1/2/2/61228989/9668055.jpg</thumbnail>
     </item>
     
     <item>
-        <title>ZEE TV</title>
-        <link>http://play-fs.amgiptv.com/vxtvzeetamil/zeetamil.stream/playlist.m3u8</link>
-        <thumbnail>https://yt3.ggpht.com/-VcC4S6mvdE8/AAAAAAAAAAI/AAAAAAAAAAA/ksQgPouEe30/s900-c-k-no/photo.jpg</thumbnail>
+        <title>Mega 24</title>
+        <link>http://play-fs.amgiptv.com/vxtvmega24/mega24.stream/playlist.m3u8</link>
+        <thumbnail>http://61228989-130077484661124541.preview.editmysite.com/uploads/6/1/2/2/61228989/6395224.png</thumbnail>
     </item>
   
      <item>
-        <title>Kalaingar TV</title>
-        <link>http://mobile.amgiptv.com/vxtvlqkalaingertv/kalaingertvlq.stream/playlist.m3u8</link>
-        <thumbnail>http://kathiravantv.safiullahahamed.com/wp-content/uploads/2015/03/jcxzEBocE.png</thumbnail>
+        <title>Vasanth tv</title>
+        <link>http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f</link>
+        <thumbnail>http://tv.listenradios.com/wp-content/uploads/2012/05/Vasanth-TV-Online.jpg</thumbnail>
     </item>
 
     <item>
@@ -88,40 +88,26 @@
     </item>
 
      <item>
-		<title>isai Aruvy</title>
-		<link>http://play-fs.amgiptv.com/vxtvisaiaruvi/isaiaruvi.stream/playlist.m3u8</link>
-		<thumbnail>http://livechennai.com/images/isaiaruvi.jpg</thumbnail>
+		<title>news 7</title>
+		<link>http://d9iuscs0aafca.cloudfront.net/news7new/smil:news7new.smil/playlist.m3u8</link>
+		<thumbnail>http://www.televisionpost.com/wp-content/uploads/2014/10/news-7-logo.jpg</thumbnail>
 	</item>
 
 	<item>
-		<title>JAYA Tv</title>
-		<link>http://mobile.amgiptv.com/vxtvlqjayatv/lqjayatv.stream/playlist.m3u8</link>
-		<thumbnail>http://www.tamiltvschedule.com/done/wp-content/uploads/2014/02/Jaya_TV.png</thumbnail>
+		<title>THANTHI TV</title>
+		<link>http://d30zz3d0a9ty3e.cloudfront.net/httporg/smil:thanthitv.smil/playlist.m3u8</link>
+		<thumbnail>http://3.bp.blogspot.com/-47_ISix1h2o/UtEkx6IoCII/AAAAAAAACe8/5syhut5UNTU/s1600/thanthi.jpg</thumbnail>
 	</item>
 
         <item>
-        <title>Jaya plus</title>
+        <title>MAALAI MURASU</title>
         <link>rtmp://78.46.17.7/live/myStream.sdp</link>
         <thumbnail>https://csa.dishnetwork.com/images/logos/JAYAPLUS.PNG</thumbnail>
     </item>
 
-    <item>
-        <title>JAYA Movie</title>
-        <link>http://play-fs.amgiptv.com/vxtvjayamovies/jayamovies.stream/playlist.m3u8</link>
-        <thumbnail>http://www.newtvworld.com/Images/Jaya-Movies.png</thumbnail>
-	</item>
-
-    
-     <item>
- -        <title>Puthuyugam [IN]</title>
- -        <link>http://d211bpuke56xnv.cloudfront.net/ngmedia/pym_400/chunklist.m3u8</link>
- -        <thumbnail>https://lh5.googleusercontent.com/-CNxUhE_DHQ0/VKcBUfIo5xI/AAAAAAAAAmI/4MWhJMMKc20/s300/300x300_puthuyugam.png</thumbnail>
-    </item>
-
-  
    
 
-    <iteminactive>
+   <iteminactive>
 		<titlinactivee>Ohm TV [UK]</title>
 		<link>http://livestream.5centscdn.com/ohmtvvxtv/bfb40efd0d961d175d0f38097fb6072f.sdp/playlist.m3u8</link>
 		<thumbnail>https://lh5.googleusercontent.com/-Xkbyd2Bjvf0/VKcBT3LC8tI/AAAAAAAAAmA/6sKD0uGvh30/s300/300x300_ohm.png</thumbnail>
