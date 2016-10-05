@@ -57,25 +57,25 @@
         <thumbnail>http://3.bp.blogspot.com/-a6Rvl-UZTyg/US3Eimb1igI/AAAAAAAABiM/o4MY8oRpmZo/s1600/siripoli_in.jpg</thumbnail>
      </item>
      
-      <item>
+      <iteminactive>
         <title>athavan tv</title>
 	<link>http://amglive.mmdlive.lldns.net/amglive/0275c0991e9b4f34b7e1433ec440e923/chunklist_b732000.m3u8</link>
         <thumbnail>http://talkiesnow.com/wp-content/uploads/2015/08/athavan-tv-online.png>
     </item>
     
-    <item>
+    <iteminactive>
         <untitle>Mega tv</title>
         <link>http://play-fs.amgiptv.com/vxtvmegatv/megatv.stream/playlist.m3u8</link>
         <thumbnail>http://tamilnilan.weebly.com/uploads/6/1/2/2/61228989/9668055.jpg</thumbnail>
     </item>
     
-    <item>
+    <iteminactive>
         <untitle>Mega 24</title>
         <link>http://play-fs.amgiptv.com/vxtvmega24/mega24.stream/playlist.m3u8</link>
         <thumbnail>http://61228989-130077484661124541.preview.editmysite.com/uploads/6/1/2/2/61228989/6395224.png</thumbnail>
     </item>
   
-     <item>
+     <iteminactive>
         <untitle>Vasanth tv</title>
         <link>http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f</link>
         <thumbnail>http://tv.listenradios.com/wp-content/uploads/2012/05/Vasanth-TV-Online.jpg</thumbnail>
@@ -87,7 +87,7 @@
         <thumbnail>https://lh5.googleusercontent.com/-hQeXAMrHHf4/VKb-ckR8FkI/AAAAAAAAAWQ/tJtc-ii5c6E/s300/300x300_0007_eettv.png</thumbnail>
     </item>
 
-     <item>
+     <iteminactive>
 		<untitle>news 7</title>
 		<link>http://d9iuscs0aafca.cloudfront.net/news7new/smil:news7new.smil/playlist.m3u8</link>
 		<thumbnail>http://www.televisionpost.com/wp-content/uploads/2014/10/news-7-logo.jpg</thumbnail>
